@@ -1,0 +1,44 @@
+.div4{
+    text-align: top ;
+    background-color: aqua;
+}
+img{
+    border-radius: 50%;
+    position: relative;
+    left: 50px;
+}
+
+.div1{
+    background-color: lightsalmon;
+    color: black;
+    width: 350px;
+    height: 720;
+    margin: 30px;
+    
+}
+.div2{
+    background-color: brown;
+    color: black;
+    height: 720;
+    width: 900px;
+    position: relative;
+    bottom: 300px;
+    left: 400px;
+}
+
+.div3{
+    background-color: aqua;
+    position: relative;
+    bottom: 250px;
+}
+body{
+    background: url(./kohli);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav{
+    position: relative;
+    bottom: 60px;
+    left: 600px;
+}
